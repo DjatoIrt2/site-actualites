@@ -1,6 +1,11 @@
 # site-actualites
 Site d'actualités 
 
+## Membres du groupe
+- ANANOU
+- DJATO
+- LELOUA
+- TENDAR
 
 ## Objectif
 Nous souhaitons nous doter d'un site d'actualités.
